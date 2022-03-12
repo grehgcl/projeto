@@ -9,20 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grehgcl/projeto-nodejs-rest.git"
+    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
   },
-  "author": "Gregorio",
+  "author": "juliana negreiros",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/grehgcl/projeto-nodejs-rest/issues"
+    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/grehgcl/projeto-nodejs-rest#readme",
+  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
   "dependencies": {
-    "body-parser": "^1.19.2",
     "consign": "^0.1.6",
-    "express": "^4.17.3"
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^1.19.2"
   }
 }
